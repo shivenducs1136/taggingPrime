@@ -60,7 +60,5 @@ File tagging application is a software that allows you to tag your files with ce
   <li>SQLite database</li>
   <li>Windows Form</li>
 </ul>
-## Team members:
-- [ ] Shivendu Mishra 
-- [	] Pranay Pandey
+Team members: Shivendu Mishra, Pranay Pandey
 
